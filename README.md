@@ -1,5 +1,7 @@
 <h1 align="center">Hey Friend 👋, I'm Sumanth Reddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<image align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/376fc4a1-d061-4d6a-b461-ad82b2efa662)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangaram-sumanth-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="gangaram-sumanth-reddy" /> </p>
 
