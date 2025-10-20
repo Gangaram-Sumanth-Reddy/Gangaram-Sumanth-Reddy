@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/023b20e9-6a2e-4c1c-a25a-754d87fffbc7)
+
 <h1 align="center">Hey Friend 👋, I'm Sumanth Reddy</h1>
 <h3 align="center">A Passionate Frontend Developer From INDIA</h3>
 <img align="right" alt="coding" width="400" src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif">
