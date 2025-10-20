@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **gsumanthreddy2004@gmail.com**
 
-- 📄 Know about my experiences [https://gangaram-sumanth-reddy.github.io/Portfolio/](https://gangaram-sumanth-reddy.github.io/Portfolio/)
+- 📄 Know about my experiences [Click Here](https://gangaram-sumanth-reddy.github.io/personal/)
 
 - ⚡ Fun fact **😄 You know I speak fluent code...and a bit of sarcasm, I believe in coffee first, deploy later..!**
 
