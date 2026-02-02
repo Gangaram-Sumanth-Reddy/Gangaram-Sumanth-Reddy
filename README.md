@@ -29,15 +29,17 @@
     <img src="https://img.shields.io/badge/Topmate-Book%20a%20Session-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Topmate" />
   </a>
 
-<b> Currently working as: Junior Software Engineer (Frontend / Full-Stack Exposure) at AlphaBots Analytics Pvt. Ltd
+<b><b>Current Role</b><br/>
+Frontend Software Engineer working on production-grade, data-driven web applications with Python-backed systems.<br/><br/>
 
-Current focus: Building data-driven web interfaces and supporting Python-based backend systems in production
+<b>Freelance & Custom Projects</b><br/>
+Actively delivering custom frontend solutions for clients, focused on scalable UI, performance, and clean architecture.<br/><br/>
 
-Ask me about: React, Next.js, frontend architecture, REST API integration, and data-aware UI development
+<b>Expertise</b><br/>
+React, Next.js, frontend architecture, REST API integration, and data-aware UI development.<br/><br/>
 
-Contact: gsumanthreddy2004@gmail.com
-
-Fun fact: Background in both engineering and art — I approach software with structure and creativity </b>
+<b>Collaboration</b><br/>
+Open to freelance work and project collaborations — reach out via email.</b>
 
 
   <h3 align="left">Core Frontend</h3>
