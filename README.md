@@ -13,7 +13,7 @@
 
 📫 How to reach me **gsumanthreddy2004@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="C:\Users\Sumanth Reddy\Downloads\Gif.mp4">
+<img align="right" alt="Coding" width="400" src="[C:\Users\Sumanth Reddy\Downloads\Gif.mp4](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2RqaG5ncHYxMnZkcG15aHNpMW5ia2lsZXcwOTZqenplOW5lZzN0ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S8VTGrBPjwo7GnIGiE/giphy.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
