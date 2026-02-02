@@ -7,18 +7,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Sumanth Reddy" /> </p>
 
 
-<b> I’m a software engineer focused on building scalable, production-ready web applications and data-driven interfaces. I enjoy working at the intersection of frontend engineering and backend systems, translating complex requirements into clean, reliable user experiences. My core toolkit includes React, modern JavaScript, Tailwind CSS, and Python-based APIs. I currently work in a startup environment where performance, correctness, and maintainability are critical.<b>
+<b> I’m a Frontend software engineer focused on building scalable, production-ready web applications and data-driven interfaces. I enjoy working at the intersection of frontend engineering and backend systems, translating complex requirements into clean, reliable user experiences. My core toolkit includes React, modern JavaScript, Tailwind CSS, and Python-based APIs. I currently work in a startup environment where performance, correctness, and maintainability are critical.<b>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/gangaramsumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/gangaramsumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Codegai0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/gangaramsumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/gangaramsumanth/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gangaramsumanth" height="30" width="40" /></a>
+<a href="https://instagram.com/gangaramsumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/gangaramsumanth/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gangaramsumanth" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Codegai0" target="blank"><img align="center" src="https://raw.githubusercontent.com/gangaramsumanth/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gangaramsumanth" height="30" width="40" /></a>
+<a href="mailto:gsumanthreddy2004@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
+alt="email" height="30" width="40"/></a>
+
 </p>
 
 👨‍💻 All of my projects are available at [Click Here](https://github.com/Gangaram-Sumanth-Reddy?tab=repositories)
-
-💬 Ask me about **Designing frontend systems that scale UI performance and component architecture Connecting frontend interfaces with real backend logic Turning vague ideas into structured, shippable products**
 
 📫 How to reach me **gsumanthreddy2004@gmail.com**
 
