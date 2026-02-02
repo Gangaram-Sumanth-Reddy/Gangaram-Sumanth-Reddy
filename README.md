@@ -31,11 +31,11 @@
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <!-- Topmate -->
   <a href="https://topmate.io/the_sumanth/" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/506430/link.svg" alt="topmate" height="30" width="40" />
+    <img align="center" src=["https://www.svgrepo.com/show/506430/link.svg](https://imgs.search.brave.com/2HRt0OhXGmGXQPO4AmOMXW-vIgb8OJP8vPgYzFam5Q0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90b3Bt/YXRlLmlvL2Nkbi1j/Z2kvaW1hZ2Uvd2lk/dGg9NjQwLHF1YWxp/dHk9OTAvaHR0cHM6/Ly9zdGF0aWMudG9w/bWF0ZS5pby91ZHBn/MXN1SGpScTNTVTlV/NHlLRloxLnBuZw)" alt="topmate" height="30" width="40" />
   </a>
 
   <!-- LinkedIn -->
