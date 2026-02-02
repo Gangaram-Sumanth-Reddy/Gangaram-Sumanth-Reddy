@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gangaram-sumanth-reddy" alt="gangaram-sumanth-reddy" /></a> </p>
 
-<b> Frontend / Full-Stack Software Engineer with hands-on experience building scalable web interfaces and data-driven systems. I specialize in React-based frontend architecture, API-integrated applications, and performance-focused UI engineering. Currently working in a startup environment delivering production-ready features with an emphasis on clean code, usability, and system reliability.<b>
+<b> I’m a software engineer focused on building scalable, production-ready web applications and data-driven interfaces. I enjoy working at the intersection of frontend engineering and backend systems, translating complex requirements into clean, reliable user experiences. My core toolkit includes React, modern JavaScript, Tailwind CSS, and Python-based APIs. I currently work in a startup environment where performance, correctness, and maintainability are critical.<b>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gangaram-Sumanth-Reddy?tab=repositories](https://github.com/Gangaram-Sumanth-Reddy?tab=repositories)
 
