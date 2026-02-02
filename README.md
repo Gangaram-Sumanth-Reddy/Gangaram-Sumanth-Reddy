@@ -1,27 +1,27 @@
-<h1 align="center">Hey Friend 👋, I'm Sumanth Reddy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi👋, I'm Sumanth Reddy</h1>
+<h3 align="center">Frontend / Full-Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangaram-sumanth-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="gangaram-sumanth-reddy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gangaram-sumanth-reddy" alt="gangaram-sumanth-reddy" /></a> </p>
 
-- 🔭 I’m currently working on **AI/ML Projects**
+- 🔭 I’m currently working on **Production web systems with data and AI integration Building frontend interfaces that consume structured and time-series data Supporting backend workflows written in Python for decision-oriented systems Integrating AI-driven components into real production pipelines Operating in a fast-paced startup environment where correctness and scalability matter**
 
 - 🌱 I’m currently learning **Mastering Modern Frontend Frameworks and Crafting Seamless User Experiences with React, Vue, GSAP, and Tailwind CSS**
 
-- 👯 I’m looking to collaborate on **Frontend/Web Development**
+- 👯 I’m looking to collaborate on **Workforce Management Platform (Web + Mobile)**
 
 - 🤝 I’m looking for help with **Building Advanced Animations and Optimizing Performance in Frontend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gangaram-Sumanth-Reddy?tab=repositories](https://github.com/Gangaram-Sumanth-Reddy?tab=repositories)
 
-- 💬 Ask me about **Turning Ideas into Interactive Web Experiences, Crafting Responsive Designs, and the Magic Behind Smooth Animations**
+- 💬 Ask me about **Designing frontend systems that scale UI performance and component architecture Connecting frontend interfaces with real backend logic Turning vague ideas into structured, shippable products**
 
 - 📫 How to reach me **gsumanthreddy2004@gmail.com**
 
 - 📄 Know about my experiences [https://gangaram-sumanth-reddy.github.io/Portfolio/](https://gangaram-sumanth-reddy.github.io/Portfolio/)
 
-- ⚡ Fun fact **😄 You know I speak fluent code...and a bit of sarcasm, I believe in coffee first, deploy later..!**
+- ⚡ Outside the Code **Award-winning artist (M. F. Hussain Award) with a systems mindset.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gangaram-sumanth-reddy&show_icons=true&locale=en&layout=compact" alt="gangaram-sumanth-reddy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gangaram-sumanth-reddy&show_icons=true&locale=en" alt="gangaram-sumanth-reddy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gangaram-sumanth-reddy&" alt="gangaram-sumanth-reddy" /></p>
