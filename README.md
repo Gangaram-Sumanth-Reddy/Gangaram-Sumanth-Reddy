@@ -29,16 +29,13 @@
     <img src="https://img.shields.io/badge/Topmate-Book%20a%20Session-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Topmate" />
   </a>
 
-<b><b>Current Role</b><br/>
+<b><b>Current Role: </b><br/>
 Frontend Software Engineer working on production-grade, data-driven web applications with Python-backed systems.<br/><br/>
-
-<b>Freelance & Custom Projects</b><br/>
+<b>Freelance & Custom Projects: </b><br/>
 Actively delivering custom frontend solutions for clients, focused on scalable UI, performance, and clean architecture.<br/><br/>
-
-<b>Expertise</b><br/>
+<b>Expertise: </b><br/>
 React, Next.js, frontend architecture, REST API integration, and data-aware UI development.<br/><br/>
-
-<b>Collaboration</b><br/>
+<b>Collaboration: </b><br/>
 Open to freelance work and project collaborations — reach out via email.</b>
 
 
