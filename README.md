@@ -15,8 +15,9 @@
 <a href="https://linkedin.com/in/gangaramsumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gangaramsumanth" height="30" width="40" /></a>
 <a href="https://instagram.com/gangaramsumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gangaramsumanth" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Codegai0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Codegai0" height="30" width="40" /></a>
-<a href="mailto:gsumanthreddy2004@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:gsumanthreddy2004@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
+
 
 
 
