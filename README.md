@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gangaram-sumanth-reddy" alt="gangaram-sumanth-reddy" /></a> </p>
 
-- 🔭 I’m currently working on **Production web systems with data and AI integration Building frontend interfaces that consume structured and time-series data Supporting backend workflows written in Python for decision-oriented systems Integrating AI-driven components into real production pipelines Operating in a fast-paced startup environment where correctness and scalability matter**
-
-- 🌱 I’m currently learning **Mastering Modern Frontend Frameworks and Crafting Seamless User Experiences with React, Vue, GSAP, and Tailwind CSS**
-
-- 👯 I’m looking to collaborate on **Workforce Management Platform (Web + Mobile)**
-
-- 🤝 I’m looking for help with **Building Advanced Animations and Optimizing Performance in Frontend Development**
+- 🔭Frontend / Full-Stack Software Engineer with hands-on experience building scalable web interfaces and data-driven systems. I specialize in React-based frontend architecture, API-integrated applications, and performance-focused UI engineering. Currently working in a startup environment delivering production-ready features with an emphasis on clean code, usability, and system reliability.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gangaram-Sumanth-Reddy?tab=repositories](https://github.com/Gangaram-Sumanth-Reddy?tab=repositories)
 
