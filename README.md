@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Sumanth Reddy</h1>
-<h3 align="center">Frontend / Full-Stack Software Engineer</h3>
+<h3 align="center">Frontend Software Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Sumanth Reddy" /> </p>
