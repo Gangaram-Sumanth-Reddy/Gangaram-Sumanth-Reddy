@@ -22,15 +22,15 @@
     <img src="https://img.shields.io/badge/Topmate-Book%20a%20Session-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Topmate" />
   </a>
 
-- 🔭 I’m currently working on **Vexa Web App**
+<b> Currently working as: Junior Software Engineer (Frontend / Full-Stack Exposure) at AlphaBots Analytics Pvt. Ltd
 
-- 🌱 I’m currently learning **DevOps**
+Current focus: Building data-driven web interfaces and supporting Python-based backend systems in production
 
-- 💬 Ask me about **Android , MEARN**
+Ask me about: React, Next.js, frontend architecture, REST API integration, and data-aware UI development
 
-- 📫 How to reach me ****
+Contact: gsumanthreddy2004@gmail.com
 
-- ⚡ Fun fact **I am Funny**
+Fun fact: Background in both engineering and art — I approach software with structure and creativity </b>
 
 <h3 align="left">Connect with me:</h3>
 
