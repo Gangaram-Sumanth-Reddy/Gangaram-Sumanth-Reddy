@@ -20,7 +20,7 @@
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/gangaramsumanth" target="_blank">
+  <a href="https://instagram.com/gangaramsumanth" target="blue">
     <img align="center" 
          src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" 
          alt="Instagram" 
@@ -29,7 +29,7 @@
   </a>
 
   <!-- YouTube -->
-  <a href="https://www.youtube.com/@Codegai0" target="_blank">
+  <a href="https://www.youtube.com/@Codegai0" target="_red">
     <img align="center" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" 
          alt="YouTube" 
