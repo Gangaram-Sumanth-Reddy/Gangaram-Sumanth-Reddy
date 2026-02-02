@@ -35,7 +35,7 @@
 <p align="left">
   <!-- Topmate -->
   <a href="https://topmate.io/the_sumanth/" target="blank">
-    <img align="center" src=["https://www.svgrepo.com/show/506430/link.svg](https://imgs.search.brave.com/2HRt0OhXGmGXQPO4AmOMXW-vIgb8OJP8vPgYzFam5Q0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90b3Bt/YXRlLmlvL2Nkbi1j/Z2kvaW1hZ2Uvd2lk/dGg9NjQwLHF1YWxp/dHk9OTAvaHR0cHM6/Ly9zdGF0aWMudG9w/bWF0ZS5pby91ZHBn/MXN1SGpScTNTVTlV/NHlLRloxLnBuZw)" alt="topmate" height="30" width="40" />
+    <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://imgs.search.brave.com/YSuKvoDaX5c3e7sl93pYzjk_3TE335EMTyKqJOC5Ork/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMueW91cnN0b3J5/LmNvbS9jcy9pbWFn/ZXMvY29tcGFuaWVz/L3RvcG1hdGVpb2xv/Z28tMTcwNzQxMjYw/ODAyOC5qcGc_Zm09/YXV0byZhcj0xOjEm/bW9kZT1maWxsJmZp/bGw9c29saWQmZmls/bC1jb2xvcj1mZmYm/Zm9ybWF0PWF1dG8m/dz0xOTIwJnE9NzU)" alt="gangaramsumanth" height="30" width="40" />
   </a>
 
   <!-- LinkedIn -->
