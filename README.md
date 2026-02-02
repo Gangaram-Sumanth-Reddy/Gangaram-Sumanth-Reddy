@@ -16,7 +16,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sumanth&label=Profile%20views&color=0e75b6&style=flat" alt="Sumanth" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 <a href="https://topmate.io/the_sumanth/" target="blank">
     <img src="https://img.shields.io/badge/Topmate-Book%20a%20Session-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Topmate" />
