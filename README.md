@@ -7,7 +7,7 @@
 
 <b> I’m a software engineer focused on building scalable, production-ready web applications and data-driven interfaces. I enjoy working at the intersection of frontend engineering and backend systems, translating complex requirements into clean, reliable user experiences. My core toolkit includes React, modern JavaScript, Tailwind CSS, and Python-based APIs. I currently work in a startup environment where performance, correctness, and maintainability are critical.<b>
 
-👨‍💻 All of my projects are available at [https://github.com/Gangaram-Sumanth-Reddy?tab=repositories](https://github.com/Gangaram-Sumanth-Reddy?tab=repositories)
+👨‍💻 All of my projects are available at [Click Here](https://github.com/Gangaram-Sumanth-Reddy?tab=repositories)
 
 💬 Ask me about **Designing frontend systems that scale UI performance and component architecture Connecting frontend interfaces with real backend logic Turning vague ideas into structured, shippable products**
 
