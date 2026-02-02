@@ -11,12 +11,39 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/gangaramsumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/gangaramsumanth/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gangaramsumanth" height="30" width="40" /></a>
-<a href="https://instagram.com/gangaramsumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/gangaramsumanth/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gangaramsumanth" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Codegai0" target="blank"><img align="center" src="https://raw.githubusercontent.com/gangaramsumanth/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gangaramsumanth" height="30" width="40" /></a>
-<a href="mailto:gsumanthreddy2004@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
-alt="email" height="30" width="40"/></a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/gangaramsumanth" target="_blank">
+    <img align="center" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" 
+         height="32" width="32" />
+  </a>
 
+  <!-- Instagram -->
+  <a href="https://instagram.com/gangaramsumanth" target="_blank">
+    <img align="center" 
+         src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" 
+         alt="Instagram" 
+         height="32" width="32" 
+         style="filter: invert(36%) sepia(96%) saturate(7471%) hue-rotate(316deg) brightness(95%) contrast(102%);" />
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@Codegai0" target="_blank">
+    <img align="center" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" 
+         alt="YouTube" 
+         height="32" width="32" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:gsumanthreddy2004@gmail.com">
+    <img align="center" 
+         src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+         alt="Email" 
+         height="32" width="32" 
+         style="filter: invert(33%) sepia(93%) saturate(7494%) hue-rotate(356deg) brightness(99%) contrast(108%);" />
+  </a>
 </p>
 
 👨‍💻 All of my projects are available at [Click Here](https://github.com/Gangaram-Sumanth-Reddy?tab=repositories)
