@@ -40,7 +40,7 @@ Fun fact: Background in both engineering and art — I approach software with st
 <a href="https://www.youtube.com/@Codegai0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
 
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Core Frontend</h3>
 <p align="left">
   <!-- Core Frontend -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -65,7 +65,7 @@ Fun fact: Background in both engineering and art — I approach software with st
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a></p>
 
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Backend & Data</h3>
   <p>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -80,7 +80,7 @@ Fun fact: Background in both engineering and art — I approach software with st
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/duckdb/duckdb-original.svg" alt="duckdb" width="40" height="40"/>
   </a>
 </p>
- <h3 align="left">Languages and Tools:</h3>
+ <h3 align="left">Tools & Platforms</h3>
  <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -93,7 +93,7 @@ Fun fact: Background in both engineering and art — I approach software with st
   </a>
  </p>
 
- <h3 align="left">Languages and Tools:</h3>
+ <h3 align="left">Design Tools:</h3>
  <p>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
