@@ -99,6 +99,6 @@ React, Next.js, frontend architecture, REST API integration, and data-aware UI d
   </a>
 </p>
 
-<b><h1> Collaboration: </h1></b><br/>
-Open to freelance work and project collaborations — reach out via email.</b>
+<b><h1> Collaboration: Open to freelance work and project collaborations — reach out via email. </h1 ></b><br/>
+
 
