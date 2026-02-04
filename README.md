@@ -35,8 +35,6 @@ Frontend Software Engineer working on production-grade, data-driven web applicat
 Actively delivering custom frontend solutions for clients, focused on scalable UI, performance, and clean architecture.<br/><br/>
 <b>Expertise: </b><br/>
 React, Next.js, frontend architecture, REST API integration, and data-aware UI development.<br/><br/>
-<b>Collaboration: </b><br/>
-Open to freelance work and project collaborations — reach out via email.</b>
 
 
   <h3 align="left">Core Frontend</h3>
@@ -100,4 +98,7 @@ Open to freelance work and project collaborations — reach out via email.</b>
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   </a>
 </p>
+
+<b>Collaboration: </b><br/>
+Open to freelance work and project collaborations — reach out via email.</b>
 
