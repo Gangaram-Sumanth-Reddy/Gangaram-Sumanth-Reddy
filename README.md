@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Frontend-Leaning+Full+Stack+Engineer;Startup+Experience+%7C+Fintech+Exposure;React+%7C+Next.js+%7C+Python;Building+Scalable+Production+Systems" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Sumanth Reddy" /> </p>
+<img width="912" height="46" alt="image" src="https://github.com/user-attachments/assets/5f1be241-1175-4cd6-9462-681e7c14f730" />
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gangaram-Sumanth-Reddy/Gangaram-Sumanth-Reddy/main/Copy%20of%20Linked%20in.png" width="100%" />
 </p>
