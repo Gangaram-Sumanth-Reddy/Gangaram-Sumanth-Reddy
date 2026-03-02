@@ -92,66 +92,6 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 </p>
 
-
-<!-- ================= CAREER CLARITY & MENTORSHIP ================= -->
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:1e3c72&height=120&section=header&text=Career%20Clarity%20%7C%20Mentorship%20%7C%20Speaking&fontSize=28&fontColor=ffffff"/>
-</p>
-
-<br/>
-
-<h3 align="center">🎯 Career Clarity Coach | Speaker | Mentor</h3>
-
-<p align="center">
-I help students and early-career professionals eliminate confusion and make structured, informed career decisions aligned with their strengths, interests, and real industry expectations.
-</p>
-
-<br/>
-
-<h3 align="center">🌍 Recognitions & Impact</h3>
-
-<p align="center">
-• Featured in <b>Andhra Education Stories</b> – Guiding Students Toward Career Clarity & Job Readiness<br/>
-• Profiled in <b>Humans of South India</b> – From Career Confusion to Purpose-Driven Mentorship<br/>
-• Guest Speaker at Institutions – Career Clarity & Job Readiness Sessions<br/>
-• Panellist at South India Education & Employability Forums
-</p>
-
-<br/>
-
-<h3 align="center">📈 What I Do</h3>
-
-<p align="center">
-• Mentored 300+ individuals via Zoom & structured consultations<br/>
-• Conduct Leadership Lecture Series with industry professionals<br/>
-• Guide students toward practical hiring expectations & skill alignment<br/>
-• Structured 1:1 clarity calls for career direction & execution planning
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Career+Clarity+Sessions;Tech+Mentorship;Job+Readiness+Strategy;Leadership+Guidance;Freelance+Consultations" />
-</p>
-
-<br/>
-
-<p align="center">
-<a href="https://topmate.io/the_sumanth/" target="_blank">
-<img src="https://img.shields.io/badge/Book_a_Mentorship_Session-Topmate-1e3c72?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</p>
-
-<br/>
-
-<hr/>
-
-</br>
----
-
 <!-- ================= TECHNOLOGY STACK ================= -->
 
 <h2 align="center">🧠 Working with 16+ Technologies and Tools </h2>
@@ -230,6 +170,67 @@ I help students and early-career professionals eliminate confusion and make stru
 <a href="https://learn.microsoft.com/en-us/windows/wsl/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/></a>
 </p>
+
+
+<!-- ================= TECH MENTORSHIP ================= -->
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:1e3c72&height=120&section=header&text=Tech%20Mentorship%20%7C%20Frontend%20Guidance&fontSize=28&fontColor=ffffff"/>
+</p>
+
+<br/>
+
+<h3 align="center">🚀 Tech Mentor | Frontend & System Design Guidance</h3>
+
+<p align="center">
+Helping developers and students build real-world, production-ready skills aligned with modern hiring expectations.
+</p>
+
+<br/>
+
+<h3 align="center">🧠 What I Help With</h3>
+
+<p align="center">
+• Frontend Architecture (React / Next.js)<br/>
+• Building Scalable Web Applications<br/>
+• Backend Integration with Python APIs<br/>
+• Portfolio & Project Structuring<br/>
+• Resume & Hiring Alignment for Developers<br/>
+• Debugging & Code Review Sessions
+</p>
+
+<br/>
+
+<h3 align="center">📈 Session Types</h3>
+
+<p align="center">
+• 1:1 Technical Mentorship<br/>
+• Frontend Project Review<br/>
+• Career Roadmap for Developers<br/>
+• System Design Fundamentals<br/>
+• Freelance Readiness Guidance
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Mentorship;Production-Ready+Development;Code+Review+Sessions;Developer+Career+Guidance" />
+</p>
+
+<br/>
+
+<p align="center">
+<a href="https://topmate.io/the_sumanth/" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:0e75b6&height=60&section=header&text=💻%20BOOK%20A%20TECH%20MENTORSHIP%20SESSION&fontSize=20&fontColor=ffffff"/>
+</a>
+</p>
+
+<br/>
+
+<hr/>
+
 
 <h3 align="center">
 💼 Open to freelance work and professional collaboration.
