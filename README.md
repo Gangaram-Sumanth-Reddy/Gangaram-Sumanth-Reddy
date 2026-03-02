@@ -158,7 +158,8 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 <a href="https://learn.microsoft.com/en-us/windows/wsl/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/></a>
 </p>
-
+<br/>
+<hr/>
 <h3 align="center">
 💼 Open to freelance work and professional collaboration.
 </h3>
