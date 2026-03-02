@@ -18,28 +18,14 @@
 
 <br/>
 
-<table align="center" width="90%">
-<tr>
-
-<!-- LEFT SIDE CONTENT -->
-<td width="60%" valign="top">
-
-<br/>
-
-<br/>
-
-<table align="center" width="92%">
-<tr>
-
-<!-- LEFT SIDE -->
-<td width="60%" valign="top">
+<h2>Professional Experience</h2>
 
 <br/>
 
 <img src="https://img.shields.io/badge/CURRENT%20ROLE-JR.%20SOFTWARE%20ENGINEER%20@%20ALPHABOTS-0e75b6?style=for-the-badge" />
 
 <p>
-Developing and maintaining backend data systems using Python in a startup environment.
+Developing and maintaining backend data systems using Python in a startup environment.  
 Focused on performance, debugging, reliability, and production-grade workflows.
 </p>
 
@@ -67,24 +53,15 @@ Strong frontend foundation with experience building responsive, maintainable, pe
 Open to freelance projects, frontend contracts, product collaborations, and scalable web development engagements.
 </p>
 
-</td>
+<br/><br/>
 
-<!-- SPACING -->
-<td width="4%"></td>
-
-<!-- RIGHT SIDE IMAGE -->
-<td width="36%" align="center" valign="middle">
-
-<img 
-  src="https://raw.githubusercontent.com/Gangaram-Sumanth-Reddy/Gangaram-Sumanth-Reddy/main/Copy%20of%20Linked%20in.png" 
-  width="100%" 
-  style="max-width:350px; border-radius:12px;" 
-/>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Gangaram-Sumanth-Reddy/Gangaram-Sumanth-Reddy/main/Copy%20of%20Linked%20in.png"
+    width="80%"
+    style="max-width:500px; border-radius:12px;"
+  />
+</p>
 
 <br/>
 <hr/>
