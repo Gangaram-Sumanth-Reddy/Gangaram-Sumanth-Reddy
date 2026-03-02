@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e3c72&height=220&section=header&text=Sumanth%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e3c72&height=220&section=header&text=I'm Sumanth%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">
