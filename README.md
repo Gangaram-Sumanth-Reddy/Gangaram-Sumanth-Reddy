@@ -174,6 +174,38 @@ and scalable web development engagements.
 </p>
 <br/>
 <hr/>
+
+
+<br/>
+<hr/>
+
+<h2 align="center">What I'm Focused On</h2>
+
+<br/>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c6ef5,100:74c0fc&height=45&section=header&text=Available%20for%20Freelance%20Projects&fontSize=16&fontColor=ffffff&borderRadius=25"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:37b24d,100:69db7c&height=45&section=header&text=Open%20to%20New%20Opportunities&fontSize=16&fontColor=ffffff&borderRadius=25"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7950f2,100:9775fa&height=45&section=header&text=Currently%20Building%20in%20Fintech&fontSize=16&fontColor=ffffff&borderRadius=25"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59f00,100:ffd43b&height=45&section=header&text=Working%20on%20AI%20+%20Backend%20Systems&fontSize=16&fontColor=ffffff&borderRadius=25"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f03e3e,100:ff6b6b&height=45&section=header&text=Building%20Production-Ready%20Systems&fontSize=16&fontColor=ffffff&borderRadius=25"/>
+</p>
+
+<br/>
+<hr/>
+
 <h3 align="center">
 💼 Open to freelance work and professional collaboration.
 </h3>
