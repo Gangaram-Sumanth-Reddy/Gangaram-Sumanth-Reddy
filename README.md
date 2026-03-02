@@ -27,60 +27,68 @@
 <br/>
 
 
-<!-- ================= PROFILE SECTION ================= -->
 
+<br/>
 
+<h2 align="center">Professional Experience</h2>
 
-<table width="100%">
+<br/>
+
+<table align="center" width="90%">
 <tr>
-<td width="65%" valign="top">
 
-<!-- CURRENT ROLE -->
+<!-- LEFT CONTENT -->
+<td width="60%" valign="top">
+
+<h3>Jr. Software Engineer — Alphabots</h3>
+<p><i>Backend Data Systems | Python | Production Workflows</i></p>
 <p>
-  <img src="https://img.shields.io/badge/CURRENT_ROLE-Jr._Software_Engineer_@_AlphaBots-0e75b6?style=for-the-badge&logo=python&logoColor=white" />
+Developing and maintaining backend data systems in a startup environment.
+Focused on performance optimization, debugging, system reliability, and production-grade pipelines.
 </p>
-
-Developing and maintaining backend data systems using Python in a startup environment.  
-Focused on performance, debugging, reliability, and production-grade workflows.
 
 <br/>
 
-<!-- FINTECH -->
+<h3>SDE Intern — Bluestock (Fintech)</h3>
+<p><i>Financial Data Platforms | Scalable Applications</i></p>
 <p>
-  <img src="https://img.shields.io/badge/FINTECH_EXPERIENCE-SDE_Intern_@_Bluestock-1e3c72?style=for-the-badge&logo=databricks&logoColor=white" />
+Contributed to fintech product engineering, financial data processing systems, and scalable application development.
 </p>
-
-Contributing to fintech product engineering, financial data platforms, and scalable application development.
 
 <br/>
 
-<!-- FRONTEND -->
+<h3>Frontend Background</h3>
+<p><i>React | Next.js | UI Systems</i></p>
 <p>
-  <img src="https://img.shields.io/badge/FRONTEND_BACKGROUND-React_|_Next.js_|_UI_Systems-0e75b6?style=for-the-badge&logo=react&logoColor=white" />
+Strong foundation in building responsive, maintainable, and performance-optimized interfaces aligned with modern frontend architecture principles.
 </p>
-
-Strong frontend foundation with experience building responsive, maintainable, performance-optimized interfaces.
 
 <br/>
 
-<!-- AVAILABILITY -->
+<h3>Open For Opportunities</h3>
+<p><i>Freelance | Contract | Collaboration</i></p>
 <p>
-  <img src="https://img.shields.io/badge/AVAILABLE_FOR-Freelance_|_Contract_|_Collaboration-1e3c72?style=for-the-badge&logo=handshake&logoColor=white" />
+Available for scalable web development engagements and product-focused frontend collaborations.
 </p>
-
-Open to freelance projects, frontend contracts, product collaborations, and scalable web development engagements.
 
 </td>
 
-<td width="35%" align="right">
+<!-- SPACING -->
+<td width="5%"></td>
 
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="100%" />
+<!-- RIGHT IMAGE -->
+<td width="35%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/Gangaram-Sumanth-Reddy/Gangaram-Sumanth-Reddy/main/Copy%20of%20Linked%20in.png" width="300" />
 
 </td>
+
 </tr>
 </table>
 
----
+<br/>
+<hr/>
+
 
 <!-- ================= CONNECT ================= -->
 
