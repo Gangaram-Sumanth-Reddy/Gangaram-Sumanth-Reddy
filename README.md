@@ -175,46 +175,6 @@ and scalable web development engagements.
 <br/>
 <hr/>
 
-
-<br/>
-<hr/>
-
-<br/>
-<hr/>
-
-<h2 align="center">What I'm Focused On</h2>
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="700">
-
-🟦 <strong>Available for Freelance Projects</strong>  
-<br/><br/>
-
-🟩 <strong>Open to New Opportunities</strong>  
-<br/><br/>
-
-🟪 <strong>Currently Building in Fintech</strong>  
-<br/><br/>
-
-🟨 <strong>Working on AI & Backend Systems</strong>  
-<br/><br/>
-
-🟥 <strong>Building Production-Ready Systems</strong>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-<hr/>
-
 <h3 align="center">
 💼 Open to freelance work and professional collaboration.
 </h3>
