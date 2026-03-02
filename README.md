@@ -175,112 +175,45 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 <br/>
 
-<br/>
-
-<h2 align="center">🚀 Tech Mentorship & System Design</h2>
-
-<br/>
-
-
-<br/>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:1e3c72&height=100&section=header&text=Tech%20Mentorship%20%26%20System%20Design&fontSize=28&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e3c72&height=130&section=header&text=Tech%20Mentorship%20%26%20System%20Design&fontSize=28&fontColor=ffffff"/>
 </p>
 
 <br/>
 
-<table align="center" width="90%">
-<tr>
+<!-- ================= CARD 1 ================= -->
 
-<!-- CARD 1 -->
-<td width="48%" valign="top" align="center">
-
-<table width="100%" cellpadding="30">
-<tr>
-<td style="border-top:3px solid #0e75b6; border-radius:12px; background-color:#0b1622;">
-
-<h3 align="center">🧠 What I Help With</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=260&section=header&text=🧠%20WHAT%20I%20HELP%20WITH&fontSize=20&fontColor=ffffff&desc=Frontend%20Architecture%20(React%20/%20Next.js)%0AScalable%20Web%20Application%20Design%0ABackend%20Integration%20(Python%20APIs)%0APortfolio%20Structuring%20%26%20Hiring%20Alignment%0ADebugging%20%26%20Code%20Review&descAlignY=70&descAlign=50"/>
+</p>
 
 <br/>
 
-<ul>
-<li>Frontend Architecture (React / Next.js)</li>
-<li>Scalable Web Application Design</li>
-<li>Backend Integration (Python APIs)</li>
-<li>Portfolio & Project Structuring</li>
-<li>Resume & Hiring Alignment</li>
-<li>Debugging & Code Review</li>
-</ul>
+<!-- ================= CARD 2 ================= -->
 
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="4%"></td>
-
-<!-- CARD 2 -->
-<td width="48%" valign="top" align="center">
-
-<table width="100%" cellpadding="30">
-<tr>
-<td style="border-top:3px solid #1e3c72; border-radius:12px; background-color:#0b1622;">
-
-<h3 align="center">📊 Session Types</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=230&section=header&text=📊%20SESSION%20TYPES&fontSize=20&fontColor=ffffff&desc=1:1%20Technical%20Mentorship%0AFrontend%20Project%20Review%0ASystem%20Design%20Fundamentals%0ADeveloper%20Career%20Roadmap%0AFreelance%20Readiness%20Guidance&descAlignY=70&descAlign=50"/>
+</p>
 
 <br/>
 
-<ul>
-<li>1:1 Technical Mentorship</li>
-<li>Frontend Project Review</li>
-<li>System Design Fundamentals</li>
-<li>Developer Career Roadmap</li>
-<li>Freelance Readiness Guidance</li>
-</ul>
+<!-- ================= CTA ================= -->
 
-</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-</table>
-
-<br/><br/>
-
-<!-- CTA SECTION -->
-
-<table align="center" width="80%" cellpadding="40">
-<tr>
-<td align="center" style="border-radius:16px; background-color:#0b1622; border:1px solid #1e3c72;">
-
-<h3>💻 Production-Ready Development Guidance</h3>
-
-<p>
-Focused sessions designed to help developers build real-world systems aligned with modern hiring standards.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=900&color=0E75B6&center=true&vCenter=true&width=600&lines=Production-Ready+Development;Frontend+Mentorship;System+Design+Clarity;Career+Alignment+for+Developers" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Mentorship;System+Design+Guidance;Code+Review+Sessions;Developer+Career+Alignment" />
-</p>
-
-<br/>
-
 <a href="https://topmate.io/the_sumanth/" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:0e75b6&height=70&section=header&text=🚀%20BOOK%20A%20TECH%20MENTORSHIP%20SESSION&fontSize=20&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:0e75b6&height=75&section=header&text=🚀%20BOOK%20YOUR%20TECH%20MENTORSHIP%20SESSION&fontSize=22&fontColor=ffffff"/>
 </a>
-
-</td>
-</tr>
-</table>
+</p>
 
 <br/>
 <hr/>
+
 
 
 <h3 align="center">
