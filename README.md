@@ -142,9 +142,8 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 <a href="https://colab.research.google.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="48" height="48"/></a>
-
 <a href="https://www.sublimetext.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" width="48" height="48"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="48" height="48"/></a>
 
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=git" /></a>
