@@ -84,7 +84,7 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 <!-- ================= TECHNOLOGY STACK ================= -->
 
-<h2 align="left">🧠 Technology Stack</h2>
+<h2 align="left">🧠 Working with 16+ Technologies and Tools </h2>
 
 <!-- FRONTEND -->
 <h3 align="left">⚡ Frontend Technologies</h3>
