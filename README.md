@@ -16,10 +16,6 @@
 
 ---
 <b> I’m a Frontend software engineer focused on building scalable, production-ready web applications and data-driven interfaces. I enjoy working at the intersection of frontend engineering and backend systems, translating complex requirements into clean, reliable user experiences. My core toolkit includes React, modern JavaScript, Tailwind CSS, and Python-based APIs. I currently work in a startup environment where performance, correctness, and maintainability are critical.<b>
-<img width="922" height="113" alt="image" src="https://github.com/user-attachments/assets/670e585f-ae21-435c-ac46-0d3309f7af31" />
-
-
-<br/>
 
 <h2>Professional Experience</h2>
 
@@ -60,26 +56,49 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 <!-- ================= CONNECT ================= -->
 
-<h3 align="left">🌍 Connect With Me</h3>
+<br/>
+<hr/>
 
-<p>
+<h2 align="center">🌍 Connect With Me</h2>
 
+<br/>
+
+<table align="center" width="80%">
+<tr align="center">
+
+<td>
 <a href="https://linkedin.com/in/gangaramsumanth" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55"/>
+</a>
+</td>
 
+<td>
 <a href="https://twitter.com/gangaramsumanth" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="55"/>
+</a>
+</td>
 
-<a href="mailto:gsumanthreddy2004@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<td>
+<a href="mailto:gsumanthreddy2004@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="55"/>
+</a>
+</td>
 
-<a href="https://t.me/gangaramsumanth" target="_blank">
-<img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40"/></a>
+<td>
+<a href="https://t.me/yourtelegramusername" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="55"/>
+</a>
+</td>
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-<img src="https://cdn.simpleicons.org/discord/5865F2" height="40"/></a>
+<td>
+<a href="https://discord.gg/yourdiscordlink" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="55"/>
+</a>
+</td>
 
-</p>
+</tr>
+</table>
+
 <br/>
 <hr/>
 
