@@ -26,7 +26,7 @@ I currently work in a startup environment where performance, correctness, and ma
 <!-- ================= PROFESSIONAL EXPERIENCE ================= -->
 
 <div align="center" style="font-size:22px;font-weight:700;">
-PROFESSIONAL EXPERIENCE
+<b>PROFESSIONAL EXPERIENCE</b>
 </div>
 
 <hr/>
@@ -66,7 +66,7 @@ and scalable web development engagements.
 <!-- ================= CONNECT ================= -->
 
 <div style="font-size:20px;font-weight:700;">
-🌍 Connect With Me
+🌍 <b>Connect With Me</b>
 </div>
 
 <br/>
@@ -96,13 +96,13 @@ and scalable web development engagements.
 <!-- ================= TECHNOLOGY STACK ================= -->
 
 <div align="center" style="font-size:22px;font-weight:700;">
-🧠 Working with 16+ Technologies and Tools
+<b>🧠 Working with 16+ Technologies and Tools</b>
 </div>
 
 <br/>
 
 <div style="font-size:18px;font-weight:600;">
-⚡ Frontend Technologies
+⚡ <b>Frontend Technologies</b>
 </div>
 
 <p>
@@ -118,7 +118,7 @@ and scalable web development engagements.
 <br/>
 
 <div style="font-size:18px;font-weight:600;">
-🖥 Backend Technologies
+🖥 <b>Backend Technologies</b>
 </div>
 
 <p>
@@ -129,7 +129,7 @@ and scalable web development engagements.
 <br/>
 
 <div style="font-size:18px;font-weight:600;">
-🗄 Databases & Data Engines
+🗄 <b>Databases & Data Engines</b>
 </div>
 
 <p>
@@ -141,7 +141,7 @@ and scalable web development engagements.
 <br/>
 
 <div style="font-size:18px;font-weight:600;">
-🛠 Developer Tools & Platforms
+🛠 <b>Developer Tools & Platforms</b>
 </div>
 
 <p>
@@ -158,7 +158,7 @@ and scalable web development engagements.
 <hr/>
 
 <div align="center" style="font-size:18px;font-weight:600;">
-💼 Open to freelance work and professional collaboration.
+💼 <b>Open to freelance work and professional collaboration.</b>
 </div>
 
 <p align="center">
