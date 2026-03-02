@@ -84,8 +84,8 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 <img src="https://skillicons.dev/icons?i=gmail" /></a>
 
 <a href="https://topmate.io/the_sumanth/" target="_blank">
-<img src="https://cdn.simpleicons.org/topmate/0e75b6" width="40" height="40"/></a>
-</p>
+  <img src="https://img.shields.io/badge/Topmate-Book%20Session-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 ---
 
