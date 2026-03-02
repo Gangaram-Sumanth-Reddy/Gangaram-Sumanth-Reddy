@@ -84,44 +84,82 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 <!-- ================= TECHNOLOGY STACK ================= -->
 
-<h2 align="left">🧠 Working with 16+ Technologies and Tools </h2>
-
-<!-- ================= TECHNOLOGY STACK ================= -->
-
-<h2 align="center">🧠 Technology Stack</h2>
+<h2 align="center">🧠 Working with 16+ Technologies and Tools </h2>
 
 <!-- FRONTEND -->
 <h3 align="left">⚡ Frontend Technologies</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" /></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" /></a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tailwind" /></a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" /></a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" /></a>
+
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nextjs" /></a>
 </p>
 
 <!-- BACKEND -->
 <h3 align="left">🖥 Backend Technologies</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=python,nodejs" />
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" /></a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" /></a>
 </p>
 
 <!-- DATABASES -->
 <h3 align="left">🗄 Databases & Data Engines</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/duckdb/duckdb-original.svg" width="48" height="48"/>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" /></a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" /></a>
+
+<a href="https://duckdb.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/duckdb/duckdb-original.svg" width="48" height="48"/></a>
 </p>
 
-<!-- DATA / ML TOOLS -->
-<h3 align="left">📊 Data & ML Tools</h3>
+<!-- TOOLS -->
+<h3 align="left">🛠 Developer Tools & Platforms</h3>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="48" height="48"/>
-</p>
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" /></a>
 
-<!-- DEVOPS & SYSTEM -->
-<h3 align="left">🛠 Developer Tools & Systems</h3>
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/>
+<a href="https://colab.research.google.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="48" height="48"/></a>
+
+<a href="https://www.sublimetext.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" width="48" height="48"/></a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" /></a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" /></a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" /></a>
+
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48"/></a>
+
+<a href="https://learn.microsoft.com/en-us/windows/wsl/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/></a>
 </p>
 
 <h3 align="center">
