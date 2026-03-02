@@ -72,24 +72,19 @@ and scalable web development engagements.
 <br/>
 
 <a href="https://linkedin.com/in/gangaramsumanth" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
 
 <a href="https://twitter.com/gangaramsumanth" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
 
 <a href="mailto:gsumanthreddy2004@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 
 <a href="https://t.me/gangaramsumanth" target="_blank">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="45"/>
-</a>
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="45"/></a>
 
 <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" height="45"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
 
 <hr/>
 
@@ -103,6 +98,7 @@ and scalable web development engagements.
 
 <div style="font-size:18px;font-weight:600;">
 ⚡ <b>Frontend Technologies</b>
+  <br/>
 </div>
 
 <p>
@@ -119,6 +115,7 @@ and scalable web development engagements.
 
 <div style="font-size:18px;font-weight:600;">
 🖥 <b>Backend Technologies</b>
+ <br/>
 </div>
 
 <p>
@@ -130,6 +127,7 @@ and scalable web development engagements.
 
 <div style="font-size:18px;font-weight:600;">
 🗄 <b>Databases & Data Engines</b>
+  <br/>
 </div>
 
 <p>
@@ -142,6 +140,7 @@ and scalable web development engagements.
 
 <div style="font-size:18px;font-weight:600;">
 🛠 <b>Developer Tools & Platforms</b>
+  <br/>
 </div>
 
 <p>
