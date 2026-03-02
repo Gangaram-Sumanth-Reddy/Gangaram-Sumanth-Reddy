@@ -82,6 +82,8 @@ and scalable web development engagements.
 
 <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
+<a href="https://instagram.com/gangaramsumanth" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
 
 <hr/>
 
