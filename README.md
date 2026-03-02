@@ -17,102 +17,53 @@
 ---
 <b> I’m a Frontend software engineer focused on building scalable, production-ready web applications and data-driven interfaces. I enjoy working at the intersection of frontend engineering and backend systems, translating complex requirements into clean, reliable user experiences. My core toolkit includes React, modern JavaScript, Tailwind CSS, and Python-based APIs. I currently work in a startup environment where performance, correctness, and maintainability are critical.<b>
 
-<h2 align="center">Professional Experience</h2>
+<br/>
+
+<h2>Professional Experience</h2>
 
 <br/>
 
-<table width="100%">
-<tr>
+<!-- CURRENT ROLE -->
+<img src="https://img.shields.io/badge/CURRENT%20ROLE-6c757d?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JR.%20SOFTWARE%20ENGINEER%20@%20ALPHABOTS-0e75b6?style=for-the-badge" />
 
-<td width="48%" valign="top">
-
-<table width="100%" cellpadding="20" style="border:1px solid #1b2a41; border-radius:10px;">
-<tr>
-<td>
-
-<h3>Jr. Software Engineer — Alphabots</h3>
-<p><i>Backend Systems | Python | Production Workflows</i></p>
 <p>
-Developing backend data systems in a startup environment.
-Focused on performance optimization, debugging, reliability,
-and production-grade workflows.
+Developing and maintaining backend data systems using Python in a startup environment.
+Focused on performance, debugging, reliability, and production-grade workflows.
 </p>
 
-</td>
-</tr>
-</table>
+<br/>
 
-</td>
+<!-- FINTECH -->
+<img src="https://img.shields.io/badge/FINTECH%20EXPERIENCE-6c757d?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SDE%20INTERN%20@%20BLUESTOCK-1e3c72?style=for-the-badge" />
 
-<td width="4%"></td>
-
-<td width="48%" valign="top">
-
-<table width="100%" cellpadding="20" style="border:1px solid #1b2a41; border-radius:10px;">
-<tr>
-<td>
-
-<h3>SDE Intern — Bluestock</h3>
-<p><i>Financial Data Platforms | Scalable Applications</i></p>
 <p>
-Contributed to fintech product engineering and scalable
-financial data systems.
+Contributing to fintech product engineering, financial data platforms,
+and scalable application development.
 </p>
 
-</td>
-</tr>
-</table>
+<br/>
 
-</td>
+<!-- FRONTEND -->
+<img src="https://img.shields.io/badge/FRONTEND%20BACKGROUND-6c757d?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REACT%20|%20NEXT.JS%20|%20UI%20SYSTEMS-0e75b6?style=for-the-badge" />
 
-</tr>
-
-<tr><td colspan="3"><br/></td></tr>
-
-<tr>
-
-<td width="48%" valign="top">
-
-<table width="100%" cellpadding="20" style="border:1px solid #1b2a41; border-radius:10px;">
-<tr>
-<td>
-
-<h3>Frontend Background</h3>
-<p><i>React | Next.js | UI Systems</i></p>
 <p>
-Strong foundation in building responsive, maintainable,
-performance-optimized user interfaces.
+Strong frontend foundation building responsive, maintainable,
+and performance-optimized interfaces.
 </p>
 
-</td>
-</tr>
-</table>
+<br/>
 
-</td>
+<!-- AVAILABLE -->
+<img src="https://img.shields.io/badge/AVAILABLE%20FOR-6c757d?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FREELANCE%20|%20CONTRACT%20|%20COLLABORATION-1e3c72?style=for-the-badge" />
 
-<td width="4%"></td>
-
-<td width="48%" valign="top">
-
-<table width="100%" cellpadding="20" style="border:1px solid #1b2a41; border-radius:10px;">
-<tr>
-<td>
-
-<h3>Open For Opportunities</h3>
-<p><i>Freelance | Contract | Collaboration</i></p>
 <p>
-Available for frontend contracts, scalable web projects,
-and product-focused collaborations.
+Open to freelance projects, frontend contracts, product collaborations,
+and scalable web development engagements.
 </p>
-
-</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-</table>
 
 <br/>
 <hr/>
