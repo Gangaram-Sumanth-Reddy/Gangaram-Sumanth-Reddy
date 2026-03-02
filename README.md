@@ -56,43 +56,40 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 <!-- ================= CONNECT ================= -->
 
-<br/>
-<hr/>
-
 <h2 align="center">🌍 Connect With Me</h2>
 
 <br/>
 
-<table align="center" width="80%">
+<table align="center" width="70%">
 <tr align="center">
 
 <td>
 <a href="https://linkedin.com/in/gangaramsumanth" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="50" style="background-color:#0A66C2; padding:12px; border-radius:12px;" />
 </a>
 </td>
 
 <td>
 <a href="https://twitter.com/gangaramsumanth" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="50" style="background-color:#000000; padding:12px; border-radius:12px;" />
 </a>
 </td>
 
 <td>
 <a href="mailto:gsumanthreddy2004@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="50" style="background-color:#EA4335; padding:12px; border-radius:12px;" />
 </a>
 </td>
 
 <td>
 <a href="https://t.me/yourtelegramusername" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="50" style="background-color:#229ED9; padding:12px; border-radius:12px;" />
 </a>
 </td>
 
 <td>
 <a href="https://discord.gg/yourdiscordlink" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="50" style="background-color:#5865F2; padding:12px; border-radius:12px;" />
 </a>
 </td>
 
