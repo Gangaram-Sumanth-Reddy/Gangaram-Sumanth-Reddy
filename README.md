@@ -25,7 +25,7 @@
 <div class="experience-item">
   <div class="badges">
     <span class="badge gray">CURRENT ROLE</span>
-    <span class="badge blue">JR. SOFTWARE ENGINEER @ ALPHABOTS                                    NOV 2025 – PRESENT</span>
+    <span class="badge blue">JR. SOFTWARE ENGINEER AT ALPHABOTS NOV 2025 – PRESENT</span>
     
   <p>
     Developing and maintaining backend data systems using Python in a startup environment.
@@ -36,22 +36,11 @@
 <div class="experience-item">
   <div class="badges">
     <span class="badge gray">FINTECH EXPERIENCE</span>
-    <span class="badge blue">SDE INTERN @ BLUESTOCK</span>
+    <span class="badge blue">SDE INTERN AT BLUESTOCK</span>
     <span class="badge navy">MAY 2025 – OCT 2025</span>
   </div>
   <p>
     Contributed to fintech product engineering, financial data platforms, and scalable application development.
-  </p>
-</div>
-
-<div class="experience-item">
-  <div class="badges">
-    <span class="badge gray">FRONTEND BACKGROUND</span>
-    <span class="badge blue">REACT | NEXT.JS | UI SYSTEMS</span>
-    <span class="badge navy">2023 – PRESENT</span>
-  </div>
-  <p>
-    Strong frontend foundation building responsive, maintainable, and performance-optimized interfaces.
   </p>
 </div>
 
@@ -89,7 +78,7 @@
   <img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
 
 </p>
-<br/>
+
 <hr/>
 
 
