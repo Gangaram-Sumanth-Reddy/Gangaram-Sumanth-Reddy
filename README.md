@@ -76,28 +76,22 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 <p>
 
 <a href="https://linkedin.com/in/gangaramsumanth" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 
 <a href="https://twitter.com/gangaramsumanth" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-</a>
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 
 <a href="mailto:gsumanthreddy2004@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 
 <a href="https://t.me/gangaramsumanth" target="_blank">
-<img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40"/>
-</a>
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40"/></a>
 
 <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-<img src="https://cdn.simpleicons.org/discord/5865F2" height="40"/>
-</a>
+<img src="https://cdn.simpleicons.org/discord/5865F2" height="40"/></a>
 
 <a href="https://topmate.io/the_sumanth/" target="_blank">
-<img src="https://img.shields.io/badge/BOOK_A_SESSION-TOPMATE-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/BOOK_A_SESSION-TOPMATE-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" height="40"/></a>
 
 </p>
 
