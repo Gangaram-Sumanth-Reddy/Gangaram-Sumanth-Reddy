@@ -92,34 +92,64 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 </p>
 
-<!-- ================= BOOK A SESSION ================= -->
+
+<!-- ================= CAREER CLARITY & MENTORSHIP ================= -->
 
 <br/>
 
-<h2 align="center">🚀 Let’s Work Together</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:1e3c72&height=120&section=header&text=Career%20Clarity%20%7C%20Mentorship%20%7C%20Speaking&fontSize=28&fontColor=ffffff"/>
+</p>
+
+<br/>
+
+<h3 align="center">🎯 Career Clarity Coach | Speaker | Mentor</h3>
 
 <p align="center">
-I offer frontend consulting, system design guidance, and product-focused engineering support.  
-If you're building something scalable and need clarity or execution — let's talk.
+I help students and early-career professionals eliminate confusion and make structured, informed career decisions aligned with their strengths, interests, and real industry expectations.
+</p>
+
+<br/>
+
+<h3 align="center">🌍 Recognitions & Impact</h3>
+
+<p align="center">
+• Featured in <b>Andhra Education Stories</b> – Guiding Students Toward Career Clarity & Job Readiness<br/>
+• Profiled in <b>Humans of South India</b> – From Career Confusion to Purpose-Driven Mentorship<br/>
+• Guest Speaker at Institutions – Career Clarity & Job Readiness Sessions<br/>
+• Panellist at South India Education & Employability Forums
+</p>
+
+<br/>
+
+<h3 align="center">📈 What I Do</h3>
+
+<p align="center">
+• Mentored 300+ individuals via Zoom & structured consultations<br/>
+• Conduct Leadership Lecture Series with industry professionals<br/>
+• Guide students toward practical hiring expectations & skill alignment<br/>
+• Structured 1:1 clarity calls for career direction & execution planning
 </p>
 
 <br/>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Career+Clarity+Sessions;Tech+Mentorship;Job+Readiness+Strategy;Leadership+Guidance;Freelance+Consultations" />
+</p>
 
+<br/>
+
+<p align="center">
 <a href="https://topmate.io/the_sumanth/" target="_blank">
-  <img src="https://img.shields.io/badge/Book_a_1:1_Session_on-Topmate-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Book_a_Mentorship_Session-Topmate-1e3c72?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Strategy+Call;Frontend+Architecture+Review;Product+Development+Consultation;Freelance+Project+Discussion" />
-</p>
 
 <hr/>
+
+</br>
 ---
 
 <!-- ================= TECHNOLOGY STACK ================= -->
