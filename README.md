@@ -21,77 +21,96 @@
 
 <br/>
 
-<!-- CARD 1 -->
-<table width="100%" cellpadding="20" style="border:1px solid #1b2a41; border-radius:12px;">
+<table width="100%">
+<tr>
+
+<td width="48%" valign="top">
+
+<table width="100%" cellpadding="20" style="border:1px solid #1b2a41; border-radius:10px;">
 <tr>
 <td>
 
 <h3>Jr. Software Engineer — Alphabots</h3>
 <p><i>Backend Systems | Python | Production Workflows</i></p>
-
 <p>
-Developing and maintaining backend data systems in a startup environment.
-Focused on performance optimization, debugging, reliability, and production-grade workflows.
+Developing backend data systems in a startup environment.
+Focused on performance optimization, debugging, reliability,
+and production-grade workflows.
 </p>
 
 </td>
 </tr>
 </table>
 
-<br/>
+</td>
 
-<!-- CARD 2 -->
-<table width="100%" cellpadding="20" style="border:1px solid #1b2a41; border-radius:12px;">
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+
+<table width="100%" cellpadding="20" style="border:1px solid #1b2a41; border-radius:10px;">
 <tr>
 <td>
 
-<h3>SDE Intern — Bluestock (Fintech)</h3>
+<h3>SDE Intern — Bluestock</h3>
 <p><i>Financial Data Platforms | Scalable Applications</i></p>
-
 <p>
-Contributed to fintech product engineering, financial data platforms,
-and scalable application development.
+Contributed to fintech product engineering and scalable
+financial data systems.
 </p>
 
 </td>
 </tr>
 </table>
 
-<br/>
+</td>
 
-<!-- CARD 3 -->
-<table width="100%" cellpadding="20" style="border:1px solid #1b2a41; border-radius:12px;">
+</tr>
+
+<tr><td colspan="3"><br/></td></tr>
+
+<tr>
+
+<td width="48%" valign="top">
+
+<table width="100%" cellpadding="20" style="border:1px solid #1b2a41; border-radius:10px;">
 <tr>
 <td>
 
 <h3>Frontend Background</h3>
 <p><i>React | Next.js | UI Systems</i></p>
-
 <p>
 Strong foundation in building responsive, maintainable,
-and performance-optimized user interfaces.
+performance-optimized user interfaces.
 </p>
 
 </td>
 </tr>
 </table>
 
-<br/>
+</td>
 
-<!-- CARD 4 -->
-<table width="100%" cellpadding="20" style="border:1px solid #1b2a41; border-radius:12px;">
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+
+<table width="100%" cellpadding="20" style="border:1px solid #1b2a41; border-radius:10px;">
 <tr>
 <td>
 
 <h3>Open For Opportunities</h3>
 <p><i>Freelance | Contract | Collaboration</i></p>
-
 <p>
-Available for scalable web development engagements and
-product-focused frontend collaborations.
+Available for frontend contracts, scalable web projects,
+and product-focused collaborations.
 </p>
 
 </td>
+</tr>
+</table>
+
+</td>
+
 </tr>
 </table>
 
