@@ -171,51 +171,6 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/></a>
 </p>
 
-
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e3c72&height=130&section=header&text=Tech%20Mentorship%20%26%20System%20Design&fontSize=28&fontColor=ffffff"/>
-</p>
-
-<br/>
-
-<!-- ================= CARD 1 ================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=260&section=header&text=🧠%20WHAT%20I%20HELP%20WITH&fontSize=20&fontColor=ffffff&desc=Frontend%20Architecture%20(React%20/%20Next.js)%0AScalable%20Web%20Application%20Design%0ABackend%20Integration%20(Python%20APIs)%0APortfolio%20Structuring%20%26%20Hiring%20Alignment%0ADebugging%20%26%20Code%20Review&descAlignY=70&descAlign=50"/>
-</p>
-
-<br/>
-
-<!-- ================= CARD 2 ================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=230&section=header&text=📊%20SESSION%20TYPES&fontSize=20&fontColor=ffffff&desc=1:1%20Technical%20Mentorship%0AFrontend%20Project%20Review%0ASystem%20Design%20Fundamentals%0ADeveloper%20Career%20Roadmap%0AFreelance%20Readiness%20Guidance&descAlignY=70&descAlign=50"/>
-</p>
-
-<br/>
-
-<!-- ================= CTA ================= -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=900&color=0E75B6&center=true&vCenter=true&width=600&lines=Production-Ready+Development;Frontend+Mentorship;System+Design+Clarity;Career+Alignment+for+Developers" />
-</p>
-
-<br/>
-
-<p align="center">
-<a href="https://topmate.io/the_sumanth/" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:0e75b6&height=75&section=header&text=🚀%20BOOK%20YOUR%20TECH%20MENTORSHIP%20SESSION&fontSize=22&fontColor=ffffff"/>
-</a>
-</p>
-
-<br/>
-<hr/>
-
-
-
 <h3 align="center">
 💼 Open to freelance work and professional collaboration.
 </h3>
