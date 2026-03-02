@@ -77,7 +77,7 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 <a href="https://linkedin.com/in/gangaramsumanth"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
 <a href="https://twitter.com/gangaramsumanth"><img src="https://skillicons.dev/icons?i=twitter" height="35"/></a>
 <a href="mailto:gsumanthreddy2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
-<a href="https://topmate.io/the_sumanth/"><img src="https://img.shields.io/badge/Book_a_Session-Topmate-0e75b6?style=for-the-badge" /></a>
+<a href="https://topmate.io/the_sumanth/" target="_blank"><img src="https://media.topmate.io/logo.png" width="40" height="40" alt="Topmate"/></a>
 </p>
 
 ---
