@@ -17,8 +17,7 @@
 <p>
 I’m a Frontend software engineer focused on building scalable, production-ready web applications and data-driven interfaces.
 I enjoy working at the intersection of frontend engineering and backend systems, translating complex requirements into clean,
-reliable user experiences. My core toolkit includes React, modern JavaScript, Tailwind CSS, and Python-based APIs.
-I currently work in a startup environment where performance, correctness, and maintainability are critical.
+reliable user experiences.
 </p>
 
 <br/>
@@ -30,8 +29,6 @@ I currently work in a startup environment where performance, correctness, and ma
 </div>
 
 <hr/>
-
-<br/>
 
 <b>CURRENT ROLE</b><br/>
 <b>JR. SOFTWARE ENGINEER AT ALPHABOTS</b> (Nov 2025 – Present)
