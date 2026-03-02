@@ -16,7 +16,69 @@
 
 ---
 
+<br/>
+
+<table align="center" width="90%">
+<tr>
+
+<!-- LEFT SIDE CONTENT -->
+<td width="60%" valign="top">
+
+<br/>
+
+<h3>🐍 Current Role</h3>
+<p><b>Jr. Software Engineer @ Alphabots</b></p>
+<p>
+Developing and maintaining backend data systems using Python in a startup environment.
+Focused on performance, debugging, reliability, and production-grade workflows.
+</p>
+
+<br/>
+
+<h3>💳 Fintech Experience</h3>
+<p><b>SDE Intern @ Bluestock</b></p>
+<p>
+Contributing to fintech product engineering, financial data platforms, and scalable application development.
+</p>
+
+<br/>
+
+<h3>⚛ Frontend Background</h3>
+<p><b>React | Next.js | UI Systems</b></p>
+<p>
+Strong frontend foundation building responsive, maintainable, and performance-optimized interfaces.
+</p>
+
+<br/>
+
+<h3>🤝 Available For</h3>
+<p><b>Freelance | Contract | Collaboration</b></p>
+<p>
+Open to scalable web development engagements and product-focused frontend collaborations.
+</p>
+
+</td>
+
+<!-- SPACING -->
+<td width="5%"></td>
+
+<!-- RIGHT SIDE IMAGE -->
+<td width="35%" valign="middle" align="center">
+
+<img src="https://raw.githubusercontent.com/Gangaram-Sumanth-Reddy/Gangaram-Sumanth-Reddy/main/Copy%20of%20Linked%20in.png" width="320" />
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+<hr/>
+
+
 <!-- ================= PROFILE SECTION ================= -->
+
+
 
 <table width="100%">
 <tr>
