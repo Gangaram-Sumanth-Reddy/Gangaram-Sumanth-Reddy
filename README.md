@@ -90,11 +90,36 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
 <img src="https://cdn.simpleicons.org/discord/5865F2" height="40"/></a>
 
+</p>
+
+<!-- ================= BOOK A SESSION ================= -->
+
+<br/>
+
+<h2 align="center">🚀 Let’s Work Together</h2>
+
+<p align="center">
+I offer frontend consulting, system design guidance, and product-focused engineering support.  
+If you're building something scalable and need clarity or execution — let's talk.
+</p>
+
+<br/>
+
+<p align="center">
+
 <a href="https://topmate.io/the_sumanth/" target="_blank">
-<img src="https://img.shields.io/badge/BOOK_A_SESSION-TOPMATE-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" height="40"/></a>
+  <img src="https://img.shields.io/badge/Book_a_1:1_Session_on-Topmate-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 </p>
 
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Strategy+Call;Frontend+Architecture+Review;Product+Development+Consultation;Freelance+Project+Discussion" />
+</p>
+
+<hr/>
 ---
 
 <!-- ================= TECHNOLOGY STACK ================= -->
