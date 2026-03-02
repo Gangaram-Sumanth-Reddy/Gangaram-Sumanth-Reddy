@@ -181,25 +181,35 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 <br/>
 
-<!-- ================= TWO CARD LAYOUT ================= -->
 
-<table align="center" width="85%">
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:1e3c72&height=100&section=header&text=Tech%20Mentorship%20%26%20System%20Design&fontSize=28&fontColor=ffffff"/>
+</p>
+
+<br/>
+
+<table align="center" width="90%">
 <tr>
 
+<!-- CARD 1 -->
 <td width="48%" valign="top" align="center">
 
-<table width="100%" cellpadding="25" style="border:1px solid #1b2a41; border-radius:14px;">
+<table width="100%" cellpadding="30">
 <tr>
-<td>
+<td style="border-top:3px solid #0e75b6; border-radius:12px; background-color:#0b1622;">
 
 <h3 align="center">🧠 What I Help With</h3>
+
+<br/>
 
 <ul>
 <li>Frontend Architecture (React / Next.js)</li>
 <li>Scalable Web Application Design</li>
 <li>Backend Integration (Python APIs)</li>
 <li>Portfolio & Project Structuring</li>
-<li>Resume Alignment for Developers</li>
+<li>Resume & Hiring Alignment</li>
 <li>Debugging & Code Review</li>
 </ul>
 
@@ -211,13 +221,16 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 <td width="4%"></td>
 
+<!-- CARD 2 -->
 <td width="48%" valign="top" align="center">
 
-<table width="100%" cellpadding="25" style="border:1px solid #1b2a41; border-radius:14px;">
+<table width="100%" cellpadding="30">
 <tr>
-<td>
+<td style="border-top:3px solid #1e3c72; border-radius:12px; background-color:#0b1622;">
 
 <h3 align="center">📊 Session Types</h3>
+
+<br/>
 
 <ul>
 <li>1:1 Technical Mentorship</li>
@@ -238,11 +251,11 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 <br/><br/>
 
-<!-- ================= CTA SECTION ================= -->
+<!-- CTA SECTION -->
 
-<table align="center" width="85%" cellpadding="35" style="border:1px solid #1b2a41; border-radius:16px;">
+<table align="center" width="80%" cellpadding="40">
 <tr>
-<td align="center">
+<td align="center" style="border-radius:16px; background-color:#0b1622; border:1px solid #1e3c72;">
 
 <h3>💻 Production-Ready Development Guidance</h3>
 
@@ -252,8 +265,14 @@ Focused sessions designed to help developers build real-world systems aligned wi
 
 <br/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Mentorship;System+Design+Guidance;Code+Review+Sessions;Developer+Career+Alignment" />
+</p>
+
+<br/>
+
 <a href="https://topmate.io/the_sumanth/" target="_blank">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:0e75b6&height=70&section=header&text=BOOK%20A%20TECH%20MENTORSHIP%20SESSION&fontSize=20&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:0e75b6&height=70&section=header&text=🚀%20BOOK%20A%20TECH%20MENTORSHIP%20SESSION&fontSize=20&fontColor=ffffff"/>
 </a>
 
 </td>
@@ -262,6 +281,7 @@ Focused sessions designed to help developers build real-world systems aligned wi
 
 <br/>
 <hr/>
+
 
 <h3 align="center">
 💼 Open to freelance work and professional collaboration.
