@@ -18,11 +18,9 @@
 <b> I’m a Frontend software engineer focused on building scalable, production-ready web applications and data-driven interfaces. I enjoy working at the intersection of frontend engineering and backend systems, translating complex requirements into clean, reliable user experiences. My core toolkit includes React, modern JavaScript, Tailwind CSS, and Python-based APIs. I currently work in a startup environment where performance, correctness, and maintainability are critical.<b>
 
 <br/>
-<br/>
 <hr/>
 
 <h2>Professional Experience</h2>
-<hr>
 
 <div class="experience-item">
   <div class="badges">
@@ -66,6 +64,8 @@
     Open to freelance projects, frontend contracts, product collaborations, and scalable web development engagements.
   </p>
 </div>
+<br/>
+<hr/>
 
 <!-- ================= CONNECT ================= -->
 
