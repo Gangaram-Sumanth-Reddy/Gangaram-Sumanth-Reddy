@@ -75,11 +75,6 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://topmate.io/the_sumanth/" target="_blank">
-  <img src="https://img.shields.io/badge/Book%20Session-Topmate-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-
 </p>
 
 
