@@ -15,6 +15,9 @@
 </p>
 
 ---
+<b> I’m a Frontend software engineer focused on building scalable, production-ready web applications and data-driven interfaces. I enjoy working at the intersection of frontend engineering and backend systems, translating complex requirements into clean, reliable user experiences. My core toolkit includes React, modern JavaScript, Tailwind CSS, and Python-based APIs. I currently work in a startup environment where performance, correctness, and maintainability are critical.<b>
+<img width="922" height="113" alt="image" src="https://github.com/user-attachments/assets/670e585f-ae21-435c-ac46-0d3309f7af31" />
+
 
 <br/>
 
