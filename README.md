@@ -77,6 +77,8 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 <img src="https://cdn.simpleicons.org/discord/5865F2" height="40"/></a>
 
 </p>
+<br/>
+<hr/>
 
 <!-- ================= TECHNOLOGY STACK ================= -->
 
