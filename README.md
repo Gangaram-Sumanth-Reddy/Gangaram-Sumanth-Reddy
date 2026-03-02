@@ -1,104 +1,85 @@
-<h1 align="center">Hi👋, I'm Sumanth Reddy</h1>
-<h3 align="center">Frontend Software Engineer</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Gangaram-Sumanth-Reddy/Gangaram-Sumanth-Reddy/main/Copy%20of%20Linked%20in.png" alt="Sumanth Reddy Profile Banner" /></p>
-  
+<!-- ============================================ -->
+<!--                HEADER SECTION                -->
+<!-- ============================================ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Sumanth Reddy" /> </p>
-
-
-<b> I’m a Frontend software engineer focused on building scalable, production-ready web applications and data-driven interfaces. I enjoy working at the intersection of frontend engineering and backend systems, translating complex requirements into clean, reliable user experiences. My core toolkit includes React, modern JavaScript, Tailwind CSS, and Python-based APIs. I currently work in a startup environment where performance, correctness, and maintainability are critical.<b>
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://twitter.com/gangaramsumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gangaramsumanth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gangaramsumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gangaramsumanth" height="30" width="40" /></a>
-<a href="https://instagram.com/gangaramsumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gangaramsumanth" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Codegai0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Codegai0" height="30" width="40" /></a>
-<a href="mailto:gsumanthreddy2004@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="email" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e3c72&height=220&section=header&text=Sumanth%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Frontend+Software+Engineer;React+%7C+Next.js+%7C+Tailwind;Production-Grade+Web+Applications;Clean+Architecture+%26+Performance+Focused;Building+Scalable+Interfaces" />
+</h3>
 
+---
 
+## 🚀 About Me
 
-👨‍💻 All of my projects are available at [Click Here](https://github.com/Gangaram-Sumanth-Reddy?tab=repositories)
+```diff
++ Frontend Engineer focused on scalable systems
++ Startup experience — performance & maintainability driven
++ Strong React ecosystem foundation
++ Python-backed API integration experience
++ Architecture-first thinking
+```
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+---
 
-<a href="https://topmate.io/the_sumanth/" target="blank">
-    <img src="https://img.shields.io/badge/Topmate-Book%20a%20Session-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Topmate" />
-  </a>
+## 🧠 Tech Stack
 
-<b><b>Current Role: </b><br/>
-Frontend Software Engineer working on production-grade, data-driven web applications with Python-backed systems.<br/><br/>
-<b>Freelance & Custom Projects: </b><br/>
-Actively delivering custom frontend solutions for clients, focused on scalable UI, performance, and clean architecture.<br/><br/>
-<b>Expertise: </b><br/>
-React, Next.js, frontend architecture, REST API integration, and data-aware UI development.<br/><br/>
-
-
-  <h3 align="left">Core Frontend</h3>
-<p align="left">
-  <!-- Core Frontend -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <h3 align="left">Backend & Data</h3>
-  <p>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://duckdb.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/duckdb/duckdb-original.svg" alt="duckdb" width="40" height="40"/>
-  </a>
+### ⚡ Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
 </p>
- <h3 align="left">Tools & Platforms</h3>
- <p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
- </p>
 
- <h3 align="left">Design Tools:</h3>
- <p>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+### 🗄 Backend & Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mongodb,docker,c" />
+</p>
+
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gangaram-Sumanth-Reddy&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gangaram-Sumanth-Reddy&theme=react&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gangaram-Sumanth-Reddy&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/Gangaram-Sumanth-Reddy/Gangaram-Sumanth-Reddy/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/gangaramsumanth">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
+  <a href="https://twitter.com/gangaramsumanth">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+  <a href="mailto:gsumanthreddy2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
-<b><h1 align="center"> Collaboration: Open to freelance work — reach out via email. </h1 ></b><br/>
+---
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:0e75b6&height=150&section=footer" />
+</p>
