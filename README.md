@@ -19,93 +19,53 @@
 
 <br/>
 <br/>
-
-<h2>Professional Experience</h2>
 <hr/>
 
-<div style="margin-bottom:25px;">
+<h2>Professional Experience</h2>
+<hr>
 
-  <div style="margin-bottom:8px;">
-    <span style="background:#6c757d;color:white;padding:6px 12px;border-radius:4px;font-size:13px;">
-      CURRENT ROLE
-    </span>
-
-    <span style="background:#1f6feb;color:white;padding:6px 12px;border-radius:4px;font-size:13px;margin-left:6px;">
-      JR. SOFTWARE ENGINEER @ ALPHABOTS
-    </span>
-
-    <span style="background:#2f4f8f;color:white;padding:6px 12px;border-radius:4px;font-size:13px;margin-left:6px;">
-      NOV 2025 – PRESENT
-    </span>
+<div class="experience-item">
+  <div class="badges">
+    <span class="badge gray">CURRENT ROLE</span>
+    <span class="badge blue">JR. SOFTWARE ENGINEER @ ALPHABOTS</span>
+    <span class="badge navy">NOV 2025 – PRESENT</span>
   </div>
-
   <p>
     Developing and maintaining backend data systems using Python in a startup environment.
     Focused on performance optimization, debugging, reliability, and production-grade workflows.
   </p>
-
 </div>
 
-<div style="margin-bottom:25px;">
-
-  <div style="margin-bottom:8px;">
-    <span style="background:#6c757d;color:white;padding:6px 12px;border-radius:4px;font-size:13px;">
-      FINTECH EXPERIENCE
-    </span>
-
-    <span style="background:#1f6feb;color:white;padding:6px 12px;border-radius:4px;font-size:13px;margin-left:6px;">
-      SDE INTERN @ BLUESTOCK
-    </span>
-
-    <span style="background:#2f4f8f;color:white;padding:6px 12px;border-radius:4px;font-size:13px;margin-left:6px;">
-      MAY 2025 – OCT 2025
-    </span>
+<div class="experience-item">
+  <div class="badges">
+    <span class="badge gray">FINTECH EXPERIENCE</span>
+    <span class="badge blue">SDE INTERN @ BLUESTOCK</span>
+    <span class="badge navy">MAY 2025 – OCT 2025</span>
   </div>
-
   <p>
     Contributed to fintech product engineering, financial data platforms, and scalable application development.
   </p>
-
 </div>
 
-<div style="margin-bottom:25px;">
-
-  <div style="margin-bottom:8px;">
-    <span style="background:#6c757d;color:white;padding:6px 12px;border-radius:4px;font-size:13px;">
-      FRONTEND BACKGROUND
-    </span>
-
-    <span style="background:#1f6feb;color:white;padding:6px 12px;border-radius:4px;font-size:13px;margin-left:6px;">
-      REACT | NEXT.JS | UI SYSTEMS
-    </span>
-
-    <span style="background:#2f4f8f;color:white;padding:6px 12px;border-radius:4px;font-size:13px;margin-left:6px;">
-      2023 – PRESENT
-    </span>
+<div class="experience-item">
+  <div class="badges">
+    <span class="badge gray">FRONTEND BACKGROUND</span>
+    <span class="badge blue">REACT | NEXT.JS | UI SYSTEMS</span>
+    <span class="badge navy">2023 – PRESENT</span>
   </div>
-
   <p>
     Strong frontend foundation building responsive, maintainable, and performance-optimized interfaces.
   </p>
-
 </div>
 
-<div>
-
-  <div style="margin-bottom:8px;">
-    <span style="background:#6c757d;color:white;padding:6px 12px;border-radius:4px;font-size:13px;">
-      AVAILABLE FOR
-    </span>
-
-    <span style="background:#1f6feb;color:white;padding:6px 12px;border-radius:4px;font-size:13px;margin-left:6px;">
-      FREELANCE | CONTRACT | COLLABORATION
-    </span>
+<div class="experience-item">
+  <div class="badges">
+    <span class="badge gray">AVAILABLE FOR</span>
+    <span class="badge blue">FREELANCE | CONTRACT | COLLABORATION</span>
   </div>
-
   <p>
     Open to freelance projects, frontend contracts, product collaborations, and scalable web development engagements.
   </p>
-
 </div>
 
 <!-- ================= CONNECT ================= -->
@@ -130,6 +90,8 @@
   <img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
 
 </p>
+<br/>
+<hr/>
 
 
 
