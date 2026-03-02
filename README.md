@@ -73,19 +73,39 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 <h3 align="left">🌍 Connect With Me</h3>
 
-<p>
+<p align="left" style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+
+<!-- LinkedIn -->
 <a href="https://linkedin.com/in/gangaramsumanth" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" /></a>
-
-<a href="https://twitter.com/gangaramsumanth" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" /></a>
-
-<a href="mailto:gsumanthreddy2004@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" /></a>
-
-<a href="https://topmate.io/the_sumanth/" target="_blank">
-  <img src="https://img.shields.io/badge/Topmate-Book%20Session-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
+
+<!-- Twitter -->
+<a href="https://twitter.com/gangaramsumanth" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+
+<!-- Gmail -->
+<a href="mailto:gsumanthreddy2004@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<!-- Telegram -->
+<a href="https://t.me/gangaramsumanth" target="_blank">
+  <img src="https://skillicons.dev/icons?i=telegram" height="40"/>
+</a>
+
+<!-- Discord -->
+<a href="https://discord.com/users/your_discord_id_here" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" height="40"/>
+</a>
+
+<!-- Topmate Button -->
+<a href="https://topmate.io/the_sumanth/" target="_blank">
+  <img src="https://img.shields.io/badge/BOOK_A_SESSION-TOPMATE-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" height="40"/>
+</a>
+
+</p>
 
 ---
 
