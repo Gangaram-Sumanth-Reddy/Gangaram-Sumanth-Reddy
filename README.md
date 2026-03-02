@@ -86,6 +86,10 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 <h2 align="left">🧠 Working with 16+ Technologies and Tools </h2>
 
+<!-- ================= TECHNOLOGY STACK ================= -->
+
+<h2 align="center">🧠 Technology Stack</h2>
+
 <!-- FRONTEND -->
 <h3 align="left">⚡ Frontend Technologies</h3>
 <p>
@@ -95,21 +99,29 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 <!-- BACKEND -->
 <h3 align="left">🖥 Backend Technologies</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,nodejs" />
 </p>
 
 <!-- DATABASES -->
 <h3 align="left">🗄 Databases & Data Engines</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/duckdb/duckdb-original.svg" width="48" height="48"/>
 </p>
 
-<!-- TOOLS -->
-<h3 align="left">🛠 Developer Tools & Platforms</h3>
+<!-- DATA / ML TOOLS -->
+<h3 align="left">📊 Data & ML Tools</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="48" height="48"/>
+</p>
+
+<!-- DEVOPS & SYSTEM -->
+<h3 align="left">🛠 Developer Tools & Systems</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/>
 </p>
 
 <h3 align="center">
