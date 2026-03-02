@@ -21,56 +21,92 @@
 <br/>
 
 <h2>Professional Experience</h2>
-
-<br/>
-
-<!-- CURRENT ROLE -->
-<img src="https://img.shields.io/badge/CURRENT%20ROLE-6c757d?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JR.%20SOFTWARE%20ENGINEER%20@%20ALPHABOTS-0e75b6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NOV%202025%20–%20PRESENT-1e3c72?style=for-the-badge" />
-
-<p>
-Developing and maintaining backend data systems using Python in a startup environment.
-Focused on performance optimization, debugging, reliability, and production-grade workflows.
-</p>
-
-<br/>
-
-<!-- FINTECH -->
-<img src="https://img.shields.io/badge/FINTECH%20EXPERIENCE-6c757d?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SDE%20INTERN%20@%20BLUESTOCK-0e75b6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MAY%202025%20–%20OCT%202025-1e3c72?style=for-the-badge" />
-
-<p>
-Contributed to fintech product engineering, financial data platforms,
-and scalable application development.
-</p>
-
-<br/>
-
-<!-- FRONTEND -->
-<img src="https://img.shields.io/badge/FRONTEND%20BACKGROUND-6c757d?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REACT%20|%20NEXT.JS%20|%20UI%20SYSTEMS-0e75b6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/2023%20–%20PRESENT-1e3c72?style=for-the-badge" />
-
-<p>
-Strong frontend foundation building responsive, maintainable,
-and performance-optimized interfaces.
-</p>
-
-<br/>
-
-<!-- AVAILABLE -->
-<img src="https://img.shields.io/badge/AVAILABLE%20FOR-6c757d?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FREELANCE%20|%20CONTRACT%20|%20COLLABORATION-0e75b6?style=for-the-badge" />
-
-<p>
-Open to freelance projects, frontend contracts, product collaborations,
-and scalable web development engagements.
-</p>
-
-<br/>
 <hr/>
+
+<div style="margin-bottom:25px;">
+
+  <div style="margin-bottom:8px;">
+    <span style="background:#6c757d;color:white;padding:6px 12px;border-radius:4px;font-size:13px;">
+      CURRENT ROLE
+    </span>
+
+    <span style="background:#1f6feb;color:white;padding:6px 12px;border-radius:4px;font-size:13px;margin-left:6px;">
+      JR. SOFTWARE ENGINEER @ ALPHABOTS
+    </span>
+
+    <span style="background:#2f4f8f;color:white;padding:6px 12px;border-radius:4px;font-size:13px;margin-left:6px;">
+      NOV 2025 – PRESENT
+    </span>
+  </div>
+
+  <p>
+    Developing and maintaining backend data systems using Python in a startup environment.
+    Focused on performance optimization, debugging, reliability, and production-grade workflows.
+  </p>
+
+</div>
+
+<div style="margin-bottom:25px;">
+
+  <div style="margin-bottom:8px;">
+    <span style="background:#6c757d;color:white;padding:6px 12px;border-radius:4px;font-size:13px;">
+      FINTECH EXPERIENCE
+    </span>
+
+    <span style="background:#1f6feb;color:white;padding:6px 12px;border-radius:4px;font-size:13px;margin-left:6px;">
+      SDE INTERN @ BLUESTOCK
+    </span>
+
+    <span style="background:#2f4f8f;color:white;padding:6px 12px;border-radius:4px;font-size:13px;margin-left:6px;">
+      MAY 2025 – OCT 2025
+    </span>
+  </div>
+
+  <p>
+    Contributed to fintech product engineering, financial data platforms, and scalable application development.
+  </p>
+
+</div>
+
+<div style="margin-bottom:25px;">
+
+  <div style="margin-bottom:8px;">
+    <span style="background:#6c757d;color:white;padding:6px 12px;border-radius:4px;font-size:13px;">
+      FRONTEND BACKGROUND
+    </span>
+
+    <span style="background:#1f6feb;color:white;padding:6px 12px;border-radius:4px;font-size:13px;margin-left:6px;">
+      REACT | NEXT.JS | UI SYSTEMS
+    </span>
+
+    <span style="background:#2f4f8f;color:white;padding:6px 12px;border-radius:4px;font-size:13px;margin-left:6px;">
+      2023 – PRESENT
+    </span>
+  </div>
+
+  <p>
+    Strong frontend foundation building responsive, maintainable, and performance-optimized interfaces.
+  </p>
+
+</div>
+
+<div>
+
+  <div style="margin-bottom:8px;">
+    <span style="background:#6c757d;color:white;padding:6px 12px;border-radius:4px;font-size:13px;">
+      AVAILABLE FOR
+    </span>
+
+    <span style="background:#1f6feb;color:white;padding:6px 12px;border-radius:4px;font-size:13px;margin-left:6px;">
+      FREELANCE | CONTRACT | COLLABORATION
+    </span>
+  </div>
+
+  <p>
+    Open to freelance projects, frontend contracts, product collaborations, and scalable web development engagements.
+  </p>
+
+</div>
 
 <!-- ================= CONNECT ================= -->
 
