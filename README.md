@@ -25,8 +25,8 @@ I currently work in a startup environment where performance, correctness, and ma
 
 <!-- ================= PROFESSIONAL EXPERIENCE ================= -->
 
-<div align="left" style="font-size:22px;font-weight:700;">
-Professional Experience
+<div align="center" style="font-size:22px;font-weight:700;">
+PROFESSIONAL EXPERIENCE
 </div>
 
 <hr/>
