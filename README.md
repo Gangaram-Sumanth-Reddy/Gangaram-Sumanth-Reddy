@@ -52,17 +52,6 @@ Strong frontend foundation with experience building responsive, maintainable, pe
 <p>
 Open to freelance projects, frontend contracts, product collaborations, and scalable web development engagements.
 </p>
-
-<br/><br/>
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Gangaram-Sumanth-Reddy/Gangaram-Sumanth-Reddy/main/Copy%20of%20Linked%20in.png"
-    width="80%"
-    style="max-width:500px; border-radius:12px;"
-  />
-</p>
-
 <br/>
 <hr/>
 
