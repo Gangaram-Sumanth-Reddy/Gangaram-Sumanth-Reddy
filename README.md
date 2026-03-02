@@ -172,63 +172,93 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 </p>
 
 
-<!-- ================= TECH MENTORSHIP ================= -->
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:1e3c72&height=120&section=header&text=Tech%20Mentorship%20%7C%20Frontend%20Guidance&fontSize=28&fontColor=ffffff"/>
-</p>
+<h2 align="center">🚀 Tech Mentorship & System Design</h2>
 
 <br/>
 
-<h3 align="center">🚀 Tech Mentor | Frontend & System Design Guidance</h3>
+<table align="center" width="90%">
+<tr>
+<td width="48%" valign="top">
 
-<p align="center">
-Helping developers and students build real-world, production-ready skills aligned with modern hiring expectations.
-</p>
+<!-- CARD 1 -->
 
-<br/>
+<table width="100%" cellpadding="20" style="border:1px solid #1e3c72; border-radius:10px;">
+<tr>
+<td>
 
 <h3 align="center">🧠 What I Help With</h3>
 
-<p align="center">
-• Frontend Architecture (React / Next.js)<br/>
-• Building Scalable Web Applications<br/>
-• Backend Integration with Python APIs<br/>
-• Portfolio & Project Structuring<br/>
-• Resume & Hiring Alignment for Developers<br/>
-• Debugging & Code Review Sessions
+<ul>
+<li>Frontend Architecture (React / Next.js)</li>
+<li>Scalable Web Application Design</li>
+<li>Backend Integration (Python APIs)</li>
+<li>Portfolio & Project Structuring</li>
+<li>Resume Alignment for Developers</li>
+<li>Debugging & Code Review</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+
+<!-- CARD 2 -->
+
+<table width="100%" cellpadding="20" style="border:1px solid #0e75b6; border-radius:10px;">
+<tr>
+<td>
+
+<h3 align="center">📊 Session Types</h3>
+
+<ul>
+<li>1:1 Technical Mentorship</li>
+<li>Frontend Project Review</li>
+<li>System Design Fundamentals</li>
+<li>Developer Career Roadmap</li>
+<li>Freelance Readiness Guidance</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- CTA CARD -->
+
+<table align="center" width="70%" cellpadding="25" style="border:2px solid #0e75b6; border-radius:12px;">
+<tr>
+<td align="center">
+
+<h3>💻 Production-Ready Development Guidance</h3>
+
+<p>
+Focused sessions designed to help developers build real-world systems aligned with modern hiring standards.
 </p>
 
 <br/>
 
-<h3 align="center">📈 Session Types</h3>
-
-<p align="center">
-• 1:1 Technical Mentorship<br/>
-• Frontend Project Review<br/>
-• Career Roadmap for Developers<br/>
-• System Design Fundamentals<br/>
-• Freelance Readiness Guidance
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Mentorship;Production-Ready+Development;Code+Review+Sessions;Developer+Career+Guidance" />
-</p>
-
-<br/>
-
-<p align="center">
 <a href="https://topmate.io/the_sumanth/" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:0e75b6&height=60&section=header&text=💻%20BOOK%20A%20TECH%20MENTORSHIP%20SESSION&fontSize=20&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:1e3c72&height=55&section=header&text=BOOK%20A%20TECH%20MENTORSHIP%20SESSION&fontSize=18&fontColor=ffffff"/>
 </a>
-</p>
+
+</td>
+</tr>
+</table>
 
 <br/>
-
 <hr/>
 
 
