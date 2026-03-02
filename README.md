@@ -175,17 +175,20 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 <br/>
 
+<br/>
+
 <h2 align="center">🚀 Tech Mentorship & System Design</h2>
 
 <br/>
 
-<table align="center" width="90%">
+<!-- ================= TWO CARD LAYOUT ================= -->
+
+<table align="center" width="85%">
 <tr>
-<td width="48%" valign="top">
 
-<!-- CARD 1 -->
+<td width="48%" valign="top" align="center">
 
-<table width="100%" cellpadding="20" style="border:1px solid #1e3c72; border-radius:10px;">
+<table width="100%" cellpadding="25" style="border:1px solid #1b2a41; border-radius:14px;">
 <tr>
 <td>
 
@@ -208,11 +211,9 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 <td width="4%"></td>
 
-<td width="48%" valign="top">
+<td width="48%" valign="top" align="center">
 
-<!-- CARD 2 -->
-
-<table width="100%" cellpadding="20" style="border:1px solid #0e75b6; border-radius:10px;">
+<table width="100%" cellpadding="25" style="border:1px solid #1b2a41; border-radius:14px;">
 <tr>
 <td>
 
@@ -231,14 +232,15 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 </table>
 
 </td>
+
 </tr>
 </table>
 
-<br/>
+<br/><br/>
 
-<!-- CTA CARD -->
+<!-- ================= CTA SECTION ================= -->
 
-<table align="center" width="70%" cellpadding="25" style="border:2px solid #0e75b6; border-radius:12px;">
+<table align="center" width="85%" cellpadding="35" style="border:1px solid #1b2a41; border-radius:16px;">
 <tr>
 <td align="center">
 
@@ -251,7 +253,7 @@ Focused sessions designed to help developers build real-world systems aligned wi
 <br/>
 
 <a href="https://topmate.io/the_sumanth/" target="_blank">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:1e3c72&height=55&section=header&text=BOOK%20A%20TECH%20MENTORSHIP%20SESSION&fontSize=18&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:0e75b6&height=70&section=header&text=BOOK%20A%20TECH%20MENTORSHIP%20SESSION&fontSize=20&fontColor=ffffff"/>
 </a>
 
 </td>
@@ -260,7 +262,6 @@ Focused sessions designed to help developers build real-world systems aligned wi
 
 <br/>
 <hr/>
-
 
 <h3 align="center">
 💼 Open to freelance work and professional collaboration.
