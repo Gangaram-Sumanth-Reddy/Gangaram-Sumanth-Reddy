@@ -18,6 +18,7 @@
 <b> I’m a Frontend software engineer focused on building scalable, production-ready web applications and data-driven interfaces. I enjoy working at the intersection of frontend engineering and backend systems, translating complex requirements into clean, reliable user experiences. My core toolkit includes React, modern JavaScript, Tailwind CSS, and Python-based APIs. I currently work in a startup environment where performance, correctness, and maintainability are critical.<b>
 
 <br/>
+<br/>
 
 <h2>Professional Experience</h2>
 
@@ -26,20 +27,22 @@
 <!-- CURRENT ROLE -->
 <img src="https://img.shields.io/badge/CURRENT%20ROLE-6c757d?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JR.%20SOFTWARE%20ENGINEER%20@%20ALPHABOTS-0e75b6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NOV%202025%20–%20PRESENT-1e3c72?style=for-the-badge" />
 
 <p>
 Developing and maintaining backend data systems using Python in a startup environment.
-Focused on performance, debugging, reliability, and production-grade workflows.
+Focused on performance optimization, debugging, reliability, and production-grade workflows.
 </p>
 
 <br/>
 
 <!-- FINTECH -->
 <img src="https://img.shields.io/badge/FINTECH%20EXPERIENCE-6c757d?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SDE%20INTERN%20@%20BLUESTOCK-1e3c72?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SDE%20INTERN%20@%20BLUESTOCK-0e75b6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MAY%202025%20–%20OCT%202025-1e3c72?style=for-the-badge" />
 
 <p>
-Contributing to fintech product engineering, financial data platforms,
+Contributed to fintech product engineering, financial data platforms,
 and scalable application development.
 </p>
 
@@ -48,6 +51,7 @@ and scalable application development.
 <!-- FRONTEND -->
 <img src="https://img.shields.io/badge/FRONTEND%20BACKGROUND-6c757d?style=for-the-badge" />
 <img src="https://img.shields.io/badge/REACT%20|%20NEXT.JS%20|%20UI%20SYSTEMS-0e75b6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/2023%20–%20PRESENT-1e3c72?style=for-the-badge" />
 
 <p>
 Strong frontend foundation building responsive, maintainable,
@@ -58,7 +62,7 @@ and performance-optimized interfaces.
 
 <!-- AVAILABLE -->
 <img src="https://img.shields.io/badge/AVAILABLE%20FOR-6c757d?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FREELANCE%20|%20CONTRACT%20|%20COLLABORATION-1e3c72?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FREELANCE%20|%20CONTRACT%20|%20COLLABORATION-0e75b6?style=for-the-badge" />
 
 <p>
 Open to freelance projects, frontend contracts, product collaborations,
