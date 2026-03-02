@@ -27,9 +27,8 @@
 <div class="experience-item">
   <div class="badges">
     <span class="badge gray">CURRENT ROLE</span>
-    <span class="badge blue">JR. SOFTWARE ENGINEER @ ALPHABOTS</span>
-    <span class="badge navy">NOV 2025 – PRESENT</span>
-  </div>
+    <span class="badge blue">JR. SOFTWARE ENGINEER @ ALPHABOTS                                    NOV 2025 – PRESENT</span>
+    
   <p>
     Developing and maintaining backend data systems using Python in a startup environment.
     Focused on performance optimization, debugging, reliability, and production-grade workflows.
