@@ -82,15 +82,35 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- ================= TECHNOLOGY STACK ================= -->
 
-<h3 align="left">🧠 Core Technologies</h3>
+<h2 align="left">🧠 Technology Stack</h2>
 
+<!-- FRONTEND -->
+<h3 align="left">⚡ Frontend Technologies</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,python,mongodb,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
 </p>
 
----
+<!-- BACKEND -->
+<h3 align="left">🖥 Backend Technologies</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<!-- DATABASES -->
+<h3 align="left">🗄 Databases & Data Engines</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/duckdb/duckdb-original.svg" width="48" height="48"/>
+</p>
+
+<!-- TOOLS -->
+<h3 align="left">🛠 Developer Tools & Platforms</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="48" height="48"/>
+</p>
 
 <h3 align="center">
 💼 Open to freelance work and professional collaboration.
