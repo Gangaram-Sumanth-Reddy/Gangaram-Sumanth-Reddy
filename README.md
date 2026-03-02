@@ -152,9 +152,6 @@ Open to freelance projects, frontend contracts, product collaborations, and scal
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=docker" /></a>
 
-<a href="https://www.jetbrains.com/idea/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48"/></a>
-
 <a href="https://learn.microsoft.com/en-us/windows/wsl/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/></a>
 </p>
