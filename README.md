@@ -42,7 +42,7 @@ Focused on performance optimization, debugging, reliability, and production-grad
 <br/>
 
 <b>FINTECH EXPERIENCE</b><br/>
-<b>SDE INTERN AT BLUESTOCK</b> (May 2025 – Oct 2025)
+<b>SDE INTERN AT BLUESTOCK</b> (Feb 2026 – Present)
 
 <p>
 Contributed to fintech product engineering, financial data platforms, and scalable application development.
@@ -51,7 +51,7 @@ Contributed to fintech product engineering, financial data platforms, and scalab
 <br/>
 
 <b>AVAILABLE FOR</b><br/>
-Freelance | Contract | Collaboration
+Freelance | Contract | Collaboration(May 2024 – present)
 
 <p>
 Open to freelance projects, frontend contracts, product collaborations,
