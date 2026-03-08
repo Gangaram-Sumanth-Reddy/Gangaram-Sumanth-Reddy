@@ -25,7 +25,7 @@ reliable user experiences.
 
 <!-- ================= PROFESSIONAL EXPERIENCE ================= -->
 
-<div align="center" style="font-size:22px;font-weight:700;">
+<div align="center" style="font-size:32px;font-weight:700;">
 <b>PROFESSIONAL EXPERIENCE</b>
 </div>
 
