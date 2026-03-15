@@ -35,7 +35,7 @@ reliable user experiences.
 <b>JR. SOFTWARE ENGINEER AT ALPHABOTS</b> (Nov 2025 – Present)
 
 <p>
-Developing and maintaining backend data systems using Python in a startup environment.
+Now, I'm Developing and maintaining backend data systems using Python in a startup environment.
 Focused on performance optimization, debugging, reliability, and production-grade workflows.
 </p>
 
