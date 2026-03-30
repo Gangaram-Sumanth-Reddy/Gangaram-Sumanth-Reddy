@@ -53,10 +53,12 @@ Contributed to fintech product engineering, financial data platforms, and scalab
 <b>AVAILABLE FOR</b><br/>
 Freelance | Contract | Collaboration(May 2024 – present)
 
+<div align="center" style="font-size:18px;font-weight:600;">
 <p>
 Open to freelance projects, frontend contracts, product collaborations,
 and scalable web development engagements.
 </p>
+</div>
 
 <br/>
 <hr/>
