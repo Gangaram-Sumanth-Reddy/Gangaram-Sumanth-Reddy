@@ -31,7 +31,7 @@ reliable user experiences.
 
 <hr/>
 
-<b align="center" CURRENT ROLE ></b><br/>
+<b>CURRENT ROLE</b><br/>
 <b>JR. SOFTWARE ENGINEER AT ALPHABOTS</b> (Nov 2025 – Present)
 
 <p>
